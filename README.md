@@ -1,6 +1,4 @@
-<a href="https://github.com/CallMeKaweewat"> 
-  <img src="https://komarev.com/ghpvc/?username=CallMeKaweewat" alt="Page Views" />
-</a>
+
 Hi 👋 My name is kaweewat kansupattanakul
 =========================================
 
@@ -26,7 +24,9 @@ I'm study at Rajamangala University of Technology Lanna Chiang Mai At major Comp
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/Kaweewat Kansupattanakul" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/CallMeKaweewat" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/Kaweewat-Kansupattanakul" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
+<a href="https://github.com/CallMeKaweewat"> 
+  <img src="https://komarev.com/ghpvc/?username=CallMeKaweewat" alt="Page Views" />
+</a>
 ### Badges
 
 <b>My GitHub Stats</b>
